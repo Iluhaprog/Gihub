@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Brown";
+    src: url("../font/Brown-Bold.ttf") format("opentype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Brown";
+    src: url("../font/Brown-Regular.ttf") format("opentype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Brown";
+    src: url("../font/Brown-Light.ttf") format("opentype");
+    font-weight: 300;
+}
